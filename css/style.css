@@ -3,8 +3,8 @@
 }
 
 .container{
-    width:700px;
-    height:200px;
+    /* width:700px;
+    height:200px; */
     background-color: darkgrey;
 }
 img{
@@ -40,5 +40,5 @@ right:-20px;
     position:relative;
     display:block;
     margin:0 auto;
-    width:40%;  
+    width:400px;
 }
